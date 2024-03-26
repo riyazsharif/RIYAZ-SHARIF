@@ -1,2 +1,1 @@
-# RIYAZ-SHARIF
-A code repo for javascript  series at  riyaz sharif
+learning javascript with hitesh choudhry
